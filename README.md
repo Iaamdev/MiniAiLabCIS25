@@ -3,6 +3,7 @@ A class project
 
 ## Description
 Created a To-Do program based off of created UML and Sequence Diagram
+UML Link: https://lucid.app/lucidchart/4069a2f2-840d-4ebb-bdea-2ca5e49ca077/edit?viewport_loc=-1717%2C-1639%2C2210%2C1360%2C0_0&invitationId=inv_87914a89-5eb8-407d-8628-31950ce4e80b
 
 ## How to Compile (In Terminal)
 g++ List.cpp Task.cpp main.cpp -o ToDoList
